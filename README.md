@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚I am currently learning javascript framework and everything about it<br><br>🎯 Goals: Creating beautiful websites<br>🎲 Fun fact: I always try to learn new things<br>💬 Ask me about: Java Script , react-js , tailwind CSS<br>📝Probably, other things will be added to the above list :)</p>
+<p align="left">📚I am currently learning javascript framework and everything about it<br><br>🎯 Goals: Creating beautiful websites<br>🎲 Fun fact: My birthday is exactly on September 12😅<br>💬 Ask me about: Java Script , react-js , tailwind CSS<br>📝Probably, other things will be added to the above list :)</p>
 
 ###
 
